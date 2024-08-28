@@ -1,6 +1,7 @@
 # Advanced-World-population-Analysis-and-Prediction
 
 a). **Overview**
+
 **Advanced-World-population-Analysis-and-Prediction** is an advanced machine learning project designed to analyze and predict global population trends. Using historical population data, the project employs sophisticated models to forecast future demographic changes, providing valuable insights through detailed visualizations and accurate predictions. Ideal for researchers and companies, this project offers a comprehensive approach to understanding and anticipating population dynamics.
 
 
@@ -44,19 +45,19 @@ c). **Advanced Algorithm Approaches**
 
 i). **Linear Regression:**
 
-Purpose: Provides a baseline model to understand the relationship between historical population data and future projections.
+Purpose: Provides a baseline model to understand the relationship between historical population data and future projections.\n
 Evaluation: High R-squared value indicates strong predictive performance.
 
 ii).**Random Forest Regressor:**
 
-Purpose: Utilizes an ensemble of decision trees to improve accuracy and handle complex relationships in the data.
-Feature Importance: Identifies key factors influencing population growth.
+Purpose: Utilizes an ensemble of decision trees to improve accuracy and handle complex relationships in the data.\n
+Feature Importance: Identifies key factors influencing population growth.\n
 Tuning: Optimized hyperparameters to enhance model performance.
 
 iii).**Hyperparameter Tuning:**
 
-Purpose: Applied to the Random Forest model to fine-tune parameters like the number of trees and depth of the trees.
-Impact: Improved model accuracy and robustness.
+Purpose: Applied to the Random Forest model to fine-tune parameters like the number of trees and depth of the trees.\n
+Impact: Improved model accuracy and robustness.\n
 
 
 
@@ -75,9 +76,9 @@ v).Visualization & Reporting: Produce detailed visualizations and metrics to int
 
 e). **Key Results**
 
-**i).Mean Squared Error (MSE): 315,548,670,001.30**
-**ii).Root Mean Squared Error (RMSE): 561,737.19**
-**iii).R-squared (R²): 0.9999 (Linear Regression), 0.9665 (Random Forest), 0.9632 (Tuned Random Forest)**
+**i).Mean Squared Error (MSE): 315,548,670,001.30**\n
+**ii).Root Mean Squared Error (RMSE): 561,737.19**\n
+**iii).R-squared (R²): 0.9999 (Linear Regression), 0.9665 (Random Forest), 0.9632 (Tuned Random Forest)**\n
 
 
 f). **Installation**
